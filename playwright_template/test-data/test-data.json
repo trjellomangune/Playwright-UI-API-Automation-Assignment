@@ -1,0 +1,29 @@
+{
+    "sampleAccountData": {
+        "firstName": "Jello",
+        "lastName": "MANGUNE"
+    },
+    "sampleScheduledNewsFeedPostData": {
+        "content" : "Sample content by jello 2",
+        "date" : "03/06/2024",
+        "time" : "12:00 PM",
+        "alertConfirmationMessage": "Scheduled post successfully set",
+        "apiConfirmationMessage": "Successfully created scheduled post"
+    },
+    "sampleNewsFeedWithPhotoData": {
+        "content" : "Sample post with photo",
+        "albumTitle" : "Dog Album 10"
+    },
+    "sampleSkillData" : {
+        "skillName" : "Sample Skill"
+    },
+    "sampleSearchSkillData" : {
+        "skillName" : "sample",
+        "page" : "1",
+        "pageSize" : "10",
+        "sort" : "name ASC"
+    },
+    "sampleEmployeeData" : {
+        "employeeNumber" : 2601
+    }
+}

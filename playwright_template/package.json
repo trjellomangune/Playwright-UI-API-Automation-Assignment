@@ -1,0 +1,20 @@
+{
+  "name": "pw_intern_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "stg:test": "cross-env test_env=stg npx playwright test --project=chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.2",
+    "moment-timezone": "^0.5.45"
+  }
+}
